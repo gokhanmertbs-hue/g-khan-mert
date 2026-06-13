@@ -1,0 +1,6 @@
+{
+  "name": "kampus-match",
+  "description": "Interaktif ve modern kampusler arasi tanisma ve eslesme simulasyonu. Gemini destekli akilli sohbetler, universite filtreleri ve detayli profil olusturma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
